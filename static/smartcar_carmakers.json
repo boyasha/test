@@ -1,0 +1,440 @@
+{
+    "US": [
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/acura.png",
+            "app_name": "Acura",
+            "smartcar_name": "ACURA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/audi.png",
+            "app_name": "Audi",
+            "smartcar_name": "AUDI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/bmw.png",
+            "app_name": "BMW",
+            "smartcar_name": "BMW"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/buick.png",
+            "app_name": "Buick",
+            "smartcar_name": "BUICK"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/cadillac.png",
+            "app_name": "Cadillac",
+            "smartcar_name": "CADILLAC"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/chevrolet.png",
+            "app_name": "Chevrolet",
+            "smartcar_name": "CHEVROLET"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/chrysler.png",
+            "app_name": "Chrysler",
+            "smartcar_name": "CHRYSLER"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/citroen.png",
+            "app_name": "Citroën",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/dodge.png",
+            "app_name": "Dodge",
+            "smartcar_name": "DODGE"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ds.png",
+            "app_name": "DS",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ford.png",
+            "app_name": "Ford",
+            "smartcar_name": "FORD"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/gmc.png",
+            "app_name": "GMC",
+            "smartcar_name": "GMC"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/honda.png",
+            "app_name": "Honda",
+            "smartcar_name": "ACURA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/hyundai.png",
+            "app_name": "Hyundai",
+            "smartcar_name": "HYUNDAI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/infiniti.png",
+            "app_name": "Infiniti",
+            "smartcar_name": "INFINITI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/jaguar.png",
+            "app_name": "Jaguar",
+            "smartcar_name": "JAGUAR"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/jeep.png",
+            "app_name": "Jeep",
+            "smartcar_name": "JEEP"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/kia.png",
+            "app_name": "Kia",
+            "smartcar_name": "KIA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/land_rover.png",
+            "app_name": "Land Rover",
+            "smartcar_name": "LAND_ROVER"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/lexus.png",
+            "app_name": "Lexus",
+            "smartcar_name": "LEXUS"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/lincoln.png",
+            "app_name": "Lincoln",
+            "smartcar_name": "LINCOLN"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/mazda.png",
+            "app_name": "Mazda",
+            "smartcar_name": "MAZDA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/mercedes-benz.png",
+            "app_name": "Mercedes-Benz",
+            "smartcar_name": "MERCEDES_BENZ"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/mini.png",
+            "app_name": "MINI",
+            "smartcar_name": "MINI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/nissan.png",
+            "app_name": "Nissan",
+            "smartcar_name": "NISSAN"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/opel.png",
+            "app_name": "Opel",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/peugeot.png",
+            "app_name": "Peugeot",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/porsche.png",
+            "app_name": "Porsche",
+            "smartcar_name": "PORSCHE"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ram.png",
+            "app_name": "RAM",
+            "smartcar_name": "RAM"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/renault.png",
+            "app_name": "Renault",
+            "smartcar_name": "RENAULT"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/rivian.png",
+            "app_name": "Rivian",
+            "smartcar_name": "RIVIAN"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/skoda.png",
+            "app_name": "Škoda",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/subaru.png",
+            "app_name": "Subaru",
+            "smartcar_name": "SUBARU"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/tesla.png",
+            "app_name": "Tesla",
+            "smartcar_name": "TESLA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/toyota.png",
+            "app_name": "Toyota",
+            "smartcar_name": "TOYOTA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/vauxhall.png",
+            "app_name": "Vauxhall",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/volkswagen.png",
+            "app_name": "Volkswagen",
+            "smartcar_name": "VOLKSWAGEN"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/volvo.png",
+            "app_name": "Volvo",
+            "smartcar_name": "VOLVO"
+        },
+        {
+            "app_logo": "",
+            "app_name": "I don't see my brand...",
+            "smartcar_name": ""
+        }
+    ],
+    "CA": [
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/acura.png",
+            "app_name": "Acura",
+            "smartcar_name": "ACURA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/audi.png",
+            "app_name": "Audi",
+            "smartcar_name": "AUDI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/bmw.png",
+            "app_name": "BMW",
+            "smartcar_name": "BMW"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/buick.png",
+            "app_name": "Buick",
+            "smartcar_name": "BUICK"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/cadillac.png",
+            "app_name": "Cadillac",
+            "smartcar_name": "CADILLAC"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/chevrolet.png",
+            "app_name": "Chevrolet",
+            "smartcar_name": "CHEVROLET"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/chrysler.png",
+            "app_name": "Chrysler",
+            "smartcar_name": "CHRYSLER"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/dodge.png",
+            "app_name": "Dodge",
+            "smartcar_name": "DODGE"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ford.png",
+            "app_name": "Ford",
+            "smartcar_name": "FORD"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/gmc.png",
+            "app_name": "GMC",
+            "smartcar_name": "GMC"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/jaguar.png",
+            "app_name": "Jaguar",
+            "smartcar_name": "JAGUAR"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/jeep.png",
+            "app_name": "Jeep",
+            "smartcar_name": "JEEP"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/kia.png",
+            "app_name": "Kia",
+            "smartcar_name": "KIA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/land_rover.png",
+            "app_name": "Land Rover",
+            "smartcar_name": "LAND_ROVER"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/lexus.png",
+            "app_name": "Lexus",
+            "smartcar_name": "LEXUS"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/lincoln.png",
+            "app_name": "Lincoln",
+            "smartcar_name": "LINCOLN"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/mini.png",
+            "app_name": "MINI",
+            "smartcar_name": "MINI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ram.png",
+            "app_name": "RAM",
+            "smartcar_name": "RAM"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/tesla.png",
+            "app_name": "Tesla",
+            "smartcar_name": "TESLA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/toyota.png",
+            "app_name": "Toyota",
+            "smartcar_name": "TOYOTA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/volvo.png",
+            "app_name": "Volvo",
+            "smartcar_name": "VOLVO"
+        },
+        {
+            "app_logo": "",
+            "app_name": "I don't see my brand...",
+            "smartcar_name": ""
+        }
+    ],
+    "EU": [
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/alfaromeo.png",
+            "app_name": "Alfa Romeo",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/audi.png",
+            "app_name": "Audi",
+            "smartcar_name": "AUDI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/bmw.png",
+            "app_name": "BMW",
+            "smartcar_name": "BMW"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/cupra.png",
+            "app_name": "Cupra",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/citroen.png",
+            "app_name": "Citroën",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ds.png",
+            "app_name": "DS",
+            "smartcar_name": "DS"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/ford.png",
+            "app_name": "Ford",
+            "smartcar_name": "FORD"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/fiat.png",
+            "app_name": "Fiat",
+            "smartcar_name": ""
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/jaguar.png",
+            "app_name": "Jaguar",
+            "smartcar_name": "JAGUAR"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/kia.png",
+            "app_name": "Kia",
+            "smartcar_name": "KIA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/land_rover.png",
+            "app_name": "Land Rover",
+            "smartcar_name": "LAND_ROVER"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/mini.png",
+            "app_name": "MINI",
+            "smartcar_name": "MINI"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/opel.png",
+            "app_name": "Opel",
+            "smartcar_name": "OPEL"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/peugeot.png",
+            "app_name": "Peugeot",
+            "smartcar_name": "PEUGEOT"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/renault.png",
+            "app_name": "Renault",
+            "smartcar_name": "RENAULT"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/tesla.png",
+            "app_name": "Tesla",
+            "smartcar_name": "TESLA"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/vauxhall.png",
+            "app_name": "Vauxhall",
+            "smartcar_name": "VAUXHALL"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/volkswagen.png",
+            "app_name": "Volkswagen",
+            "smartcar_name": "VOLKSWAGEN"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/volvo.png",
+            "app_name": "Volvo",
+            "smartcar_name": "VOLVO"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/skoda.png",
+            "app_name": "Škoda",
+            "smartcar_name": "SKODA"
+        },
+        {
+            "app_logo": "",
+            "app_name": "I don't see my brand...",
+            "smartcar_name": ""
+        }
+    ],
+    "JP": [
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/jaguar.png",
+            "app_name": "Jaguar",
+            "smartcar_name": "JAGUAR"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/land_rover.png",
+            "app_name": "Land Rover",
+            "smartcar_name": "LAND_ROVER"
+        },
+        {
+            "app_logo": "https://tovtyewhxgzpxejpfexk.supabase.co/storage/v1/object/public/car-logos/tesla.png",
+            "app_name": "Tesla",
+            "smartcar_name": "TESLA"
+        },
+        {
+            "app_logo": "",
+            "app_name": "I don't see my brand...",
+            "smartcar_name": ""
+        }
+    ]
+}
